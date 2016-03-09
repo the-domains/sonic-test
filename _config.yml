@@ -2,6 +2,7 @@ name: Sonic Test
 favicon: null
 layout_spectrum: 0.95056
 typography_spectrum: 0.5915
+title: Sonic Union
 cta:
   domain: null
   bucket: null
