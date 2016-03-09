@@ -1,7 +1,7 @@
 name: Sonic Test
 favicon: null
-layout_spectrum: 0.385196897899732
-typography_spectrum: 0.6849164080340415
+layout_spectrum: 0.95056
+typography_spectrum: 0.5915
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3948446905706078
-  lightness: 0.03697691927663982
-  saturation: 0.7002949237357825
-  rhythmicContrast: 0.3521930002607405
+    - '#ffffff'
+    - '#cd2027'
+    - '#800000'
+    - '#cc0000'
+    - '#000000'
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
